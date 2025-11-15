@@ -27,3 +27,19 @@ Quick-Post is designed to let users quickly create and publish posts with minima
 - **Styling**: CSS Modules / Styled Components / plain CSS (adjust as per your setup).
 - **Hosting / Deployment**: You can deploy on platforms like Heroku, Vercel, Firebase Hosting, etc.
 - **Version Control**: Git + GitHub
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sohan-hub11/Quick-Post.git
+   cd Quick-Post
+   ```
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
