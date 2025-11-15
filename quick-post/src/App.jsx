@@ -20,9 +20,11 @@ function App() {
         ></Sidebar>
         <div className="content">
           <Header></Header>
-          {selectedTab === "Home" && <PostList />}
-
-          {selectedTab === "Create Post" && <CreatePost />}
+          {selectedTab === "Home" ? (
+            <PostList></PostList>
+          ) : (
+            <CreatePost></CreatePost>
+          )}
           <Footer></Footer>
         </div>
       </div>
